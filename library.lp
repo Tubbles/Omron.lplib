@@ -1,0 +1,10 @@
+(librepcb_library 49148316-5d8e-4136-bc29-6e8023736fb7
+ (name "Omron")
+ (description "Relays, switches, connectors (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2023-07-18T21:19:18Z)
+ (deprecated false)
+ (url "")
+)
